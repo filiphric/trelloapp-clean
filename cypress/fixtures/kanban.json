@@ -1,0 +1,11 @@
+{
+  "lists": ["Ready to start"
+          , "In progress"
+          , "In testing"
+          , "Ready for Release"
+          , "Done"],
+  "tasks": ["Bug on main page"
+          , "Mapping to main"
+          , "Create element"
+          ]
+}
