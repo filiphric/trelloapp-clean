@@ -1,5 +1,76 @@
 {
-  "boards": [],
+  "boards": [
+    {
+      "name": "board1",
+      "user": 0,
+      "id": 13294625880,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board2",
+      "user": 0,
+      "id": 66974583162,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board3",
+      "user": 0,
+      "id": 25767904980,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board4",
+      "user": 0,
+      "id": 85623053491,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board5",
+      "user": 0,
+      "id": 52583368616,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board6",
+      "user": 0,
+      "id": 8568836973,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board7",
+      "user": 0,
+      "id": 26908411735,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board8",
+      "user": 0,
+      "id": 63183326883,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board9",
+      "user": 0,
+      "id": 56829414755,
+      "starred": false,
+      "created": "2021-02-15"
+    },
+    {
+      "name": "board10",
+      "user": 0,
+      "id": 85508521694,
+      "starred": false,
+      "created": "2021-02-15"
+    }
+  ],
   "tasks": [],
   "users": [],
   "lists": []

@@ -11,11 +11,14 @@
     "vue": "vue/dist/vue.common.js"
   },
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^1.5.0",
     "@types/node": "^14.14.11",
     "axios": "^0.21.1",
     "browserify": "^17.0.0",
     "connect-busboy": "0.0.2",
     "connect-history-api-fallback": "^1.6.0",
+    "cypress-file-upload": "^5.0.2",
+    "cypress-wait-until": "^1.7.1",
     "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
@@ -41,5 +44,8 @@
     "vue-socket.io-extended": "^4.0.4",
     "vue2-dropzone": "^3.6.0",
     "vuedraggable": "^2.23.2"
+  },
+  "dependencies": {
+    "cypress": "^6.4.0"
   }
 }
