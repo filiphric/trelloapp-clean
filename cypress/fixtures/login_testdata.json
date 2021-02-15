@@ -1,0 +1,12 @@
+{
+    "validuser":[
+      {"email": "mail29@abc.com", "password": "Mytrello"},
+      {"email": "mail30@abc.com", "password": "Mytrello"}
+    ],
+    "invaliduser":[
+       {"email": "mail29@abc.com", "password": "Mytrell"},
+       {"email": "@sas.com", "password": "abcd" },
+       {"email": "abc@sas.com", "password": "abc"}
+     ]
+    
+}
