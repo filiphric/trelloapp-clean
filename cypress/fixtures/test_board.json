@@ -1,0 +1,32 @@
+{
+  "boards": [
+    {
+      "name": "Test board",
+      "user": 0,
+      "id": 1234567890,
+      "starred": false,
+      "created": "2021-06-21"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 1234567890,
+      "description": "",
+      "completed": false,
+      "listId": 40206880799,
+      "title": "Test task",
+      "id": 29596065272,
+      "created": "2021-06-21",
+      "deadline": "2038-06-24"
+    }
+  ],
+  "users": [],
+  "lists": [
+    {
+      "boardId": 1234567890,
+      "title": "Test list",
+      "id": 40206880799,
+      "created": "2021-06-21"
+    }
+  ]
+}
